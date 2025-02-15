@@ -19,3 +19,6 @@ The data pipeline follows a structured ETL (Extract, Transform, Load) process:
 6. Pipeline Automation: Scheduling and orchestrating tasks using Apache Airflow.
 
  🗂️ *Schema Design* ![Data Model](https://github.com/ZhihongMai/End-to-End-Uber-Data-Engineering/blob/main/Data%20Model.png)
+
+## 📝 *Summary*
+This project demonstrates how to build an end-to-end Uber data processing pipeline on Google Cloud, automating ETL workflows and storing the cleaned data in BigQuery for efficient querying and analysis. It is designed to support business intelligence, reporting, and decision-making, with scalability and automation at its core
