@@ -9,7 +9,7 @@ Data Processing: BigQuery SQL, Apache Airflow (Cloud Composer)
 Programming Languages: Python, SQL
 
 🔄 *Project Workflow*
-![Airflow DAG](docs/airflow_pipeline.png)
+![Airflow DAG](https://github.com/ZhihongMai/End-to-End-Uber-Data-Engineering/blob/main/Airflow.png)
 The data pipeline follows a structured ETL (Extract, Transform, Load) process:
 1. Data Ingestion: Collecting raw taxi trip data from external sources.
 2. Data Modeling: Structuring the data into a star schema for optimized querying.
