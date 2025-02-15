@@ -17,3 +17,5 @@ The data pipeline follows a structured ETL (Extract, Transform, Load) process:
 4. Data Storage: Loading processed data into a relational database.
 5. Data Querying: Enabling analytical queries on the processed data.
 6. Pipeline Automation: Scheduling and orchestrating tasks using Apache Airflow.
+
+ 🗂️ *Schema Design* ![Data Model](https://github.com/ZhihongMai/End-to-End-Uber-Data-Engineering/blob/main/Data%20Model.png)
